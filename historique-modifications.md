@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Historique des modifications
-nav_order: 4
+nav_order: 5
 ---
 
 # Historique des modifications
