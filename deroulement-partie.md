@@ -11,9 +11,9 @@ Cette page présente les règles générales appliquées pendant une partie du t
 
 ## Avant le départ
 
-Le participant doit être prêt dans le lobby et attendre les consignes données par l’équipe d’organisation.
+Le participant doit être prêt dans le lobby et attendre les consignes données par l’équipe d’organisation pour les réglages de la game.
 
-La partie ne doit pas être lancée avant le top départ officiel.
+Une fois dans les réglages faits, les participants chargent dans le camion et attendent le top départ officiel avant de toucher au matériel (écrans du camion, matériel des joueurs, clé). Se promener, regarder les objectifs est permis.
 
 ## Chronomètre
 
