@@ -88,3 +88,76 @@
 .nhc-pending .nhc-box-title {
   color: #f2c94c;
 }
+
+/* Bandeau principal de la page d'accueil */
+.nhc-hero {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 2rem;
+  padding: 1.6rem 1.7rem;
+  border: 1px solid rgba(255, 106, 0, 0.35);
+  background:
+    radial-gradient(
+      circle at 85% 20%,
+      rgba(217, 46, 40, 0.18),
+      transparent 35%
+    ),
+    linear-gradient(
+      135deg,
+      rgba(255, 106, 0, 0.09),
+      rgba(8, 11, 14, 0.95) 55%
+    );
+  box-shadow:
+    inset 0 0 35px rgba(255, 106, 0, 0.05),
+    0 0 18px rgba(217, 46, 40, 0.08);
+}
+
+/* Ligne lumineuse au-dessus du bandeau */
+.nhc-hero::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background: linear-gradient(
+    90deg,
+    #d92e28,
+    #ff6a00,
+    #f2c94c,
+    #ff6a00,
+    #d92e28
+  );
+}
+
+/* Petit texte au-dessus du titre */
+.nhc-hero-kicker {
+  margin-bottom: 0.35rem;
+  color: #ff9a3c;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+}
+
+/* Titre Apocalypse */
+.nhc-hero-title {
+  margin: 0;
+  color: #f4f1ea;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  text-shadow:
+    0 0 10px rgba(255, 106, 0, 0.45),
+    0 0 24px rgba(217, 46, 40, 0.22);
+}
+
+/* Sous-titre */
+.nhc-hero-subtitle {
+  margin-top: 0.8rem;
+  margin-bottom: 0;
+  color: #c9ccce;
+  font-size: 1rem;
+}
