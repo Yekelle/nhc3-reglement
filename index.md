@@ -22,8 +22,8 @@ nav_order: 1
 
 ## Informations principales
 
-- Date du tournoi : à venir
-- Horaires : à venir
+- Date du tournoi : Samedi 7 Novembre
+- Horaires : 21h
 - Version du règlement : 0.1
 - Dernière mise à jour : Vendredi 24 juillet 2026
 
