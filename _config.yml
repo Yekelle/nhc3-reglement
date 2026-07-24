@@ -6,7 +6,7 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-url: "https://yekelle.github.io"
+url: "https://nuclear-live.github.io"
 baseurl: "/nhc3-reglement"
 
 search_enabled: true
