@@ -51,12 +51,12 @@ nav_order: 1
 
   <div class="nhc-info-card">
     <span class="nhc-info-label">Date du tournoi</span>
-    <span class="nhc-info-value">À venir</span>
+    <span class="nhc-info-value">Samedi 7 Novembre 2026</span>
   </div>
 
   <div class="nhc-info-card">
     <span class="nhc-info-label">Horaires</span>
-    <span class="nhc-info-value">À venir</span>
+    <span class="nhc-info-value">21h</span>
   </div>
 
   <div class="nhc-info-card">
