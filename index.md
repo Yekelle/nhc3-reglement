@@ -20,6 +20,31 @@ nav_order: 1
   >
 </div>
 
+<div class="nhc-actions">
+  <a
+    class="nhc-action"
+    href="{{ '/reglement.html' | relative_url }}"
+  >
+    Consulter le règlement
+  </a>
+
+  <a
+    class="nhc-action nhc-action-secondary"
+    href="{{ '/faq.html' | relative_url }}"
+  >
+    Voir la FAQ
+  </a>
+
+  <a
+    class="nhc-action nhc-action-secondary"
+    href="https://www.twitch.tv/nuclear_live"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Voir Nuclear_Live
+  </a>
+</div>
+
 ## Informations principales
 
 - Date du tournoi : Samedi 7 Novembre
