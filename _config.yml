@@ -19,3 +19,5 @@ nav_external_links:
     url: https://www.twitch.tv/nuclear_live
     hide_icon: false
     opens_in_new_tab: true
+
+favicon_ico: "/nhc3-reglement/logo-nuclear-live.png"
