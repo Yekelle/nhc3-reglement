@@ -20,7 +20,7 @@ Les participants devront respecter l’ensemble des règles présentées sur ce 
 - Date du tournoi : à définir
 - Heure de rendez-vous : à définir
 - Heure du lancement officiel : à définir
-- Chaîne officielle : Nuclear_Live
+- Chaîne officielle : [Nuclear_Live](https://www.twitch.tv/nuclear_live)
 - Format du tournoi : à compléter
 
 ## Communication
