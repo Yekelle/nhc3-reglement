@@ -161,3 +161,41 @@
   color: #c9ccce;
   font-size: 1rem;
 }
+
+/* Mise en page du bandeau avec logo */
+.nhc-hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.nhc-hero-content {
+  flex: 1;
+  min-width: 0;
+}
+
+/* Logo Nuclear Live */
+.nhc-hero-logo {
+  width: 150px;
+  max-width: 30%;
+  height: auto;
+  flex-shrink: 0;
+  border-radius: 8px;
+  filter:
+    drop-shadow(0 0 8px rgba(255, 106, 0, 0.35))
+    drop-shadow(0 0 18px rgba(217, 46, 40, 0.18));
+}
+
+/* Adaptation aux petits écrans */
+@media (max-width: 600px) {
+  .nhc-hero {
+    flex-direction: column-reverse;
+    align-items: flex-start;
+  }
+
+  .nhc-hero-logo {
+    width: 110px;
+    max-width: 45%;
+  }
+}
