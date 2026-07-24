@@ -42,3 +42,49 @@
   color: #ffffff;
   background-color: #d92e28;
 }
+
+/* Encadrés NHC Apocalypse */
+.nhc-box {
+  margin: 1.5rem 0;
+  padding: 1rem 1.2rem;
+  border-left: 4px solid;
+  background-color: rgba(255, 255, 255, 0.035);
+}
+
+.nhc-box-title {
+  display: block;
+  margin-bottom: 0.4rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Information importante */
+.nhc-important {
+  border-color: #ff6a00;
+  background-color: rgba(255, 106, 0, 0.09);
+}
+
+.nhc-important .nhc-box-title {
+  color: #ff9a3c;
+}
+
+/* Alerte ou interdiction */
+.nhc-alert {
+  border-color: #d92e28;
+  background-color: rgba(217, 46, 40, 0.1);
+}
+
+.nhc-alert .nhc-box-title {
+  color: #ff625c;
+}
+
+/* Élément encore à confirmer */
+.nhc-pending {
+  border-color: #f2c94c;
+  background-color: rgba(242, 201, 76, 0.08);
+}
+
+.nhc-pending .nhc-box-title {
+  color: #f2c94c;
+}
