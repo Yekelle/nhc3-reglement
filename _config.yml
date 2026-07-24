@@ -1,0 +1,15 @@
+title: Nuclear Haunted Cup 3
+description: Règlement officiel de la Nuclear Haunted Cup 3
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+url: "https://yekelle.github.io"
+baseurl: "/nhc3-reglement"
+
+search_enabled: true
+heading_anchors: true
+
+color_scheme: dark
