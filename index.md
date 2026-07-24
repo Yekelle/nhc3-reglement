@@ -47,10 +47,29 @@ nav_order: 1
 
 ## Informations principales
 
-- Date du tournoi : Samedi 7 Novembre
-- Horaires : 21h
-- Version du règlement : 0.1
-- Dernière mise à jour : Vendredi 24 juillet 2026
+<div class="nhc-info-grid">
+
+  <div class="nhc-info-card">
+    <span class="nhc-info-label">Date du tournoi</span>
+    <span class="nhc-info-value">À venir</span>
+  </div>
+
+  <div class="nhc-info-card">
+    <span class="nhc-info-label">Horaires</span>
+    <span class="nhc-info-value">À venir</span>
+  </div>
+
+  <div class="nhc-info-card">
+    <span class="nhc-info-label">Version du règlement</span>
+    <span class="nhc-info-value">0.1</span>
+  </div>
+
+  <div class="nhc-info-card">
+    <span class="nhc-info-label">Dernière mise à jour</span>
+    <span class="nhc-info-value">À venir</span>
+  </div>
+
+</div>
 
 <div class="nhc-box nhc-important">
   <span class="nhc-box-title">Important</span>
