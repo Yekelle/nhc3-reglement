@@ -4,11 +4,13 @@ title: Accueil
 nav_order: 1
 ---
 
-# Nuclear Haunted Cup 3
-
-Bienvenue sur le règlement officiel de la Nuclear Haunted Cup 3.
-
-Vous trouverez ici toutes les informations concernant le déroulement du tournoi, les règles des parties et les consignes destinées aux participants et aux modérateurs.
+<div class="nhc-hero">
+  <div class="nhc-hero-kicker">Nuclear Haunted Cup #3</div>
+  <h1 class="nhc-hero-title">Apocalypse</h1>
+  <p class="nhc-hero-subtitle">
+    Règlement officiel du tournoi Phasmophobia organisé par Nuclear_Live.
+  </p>
+</div>
 
 ## Informations principales
 
