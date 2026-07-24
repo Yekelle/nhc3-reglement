@@ -15,7 +15,7 @@ Vous trouverez ici toutes les informations concernant le déroulement du tournoi
 - Date du tournoi : à venir
 - Horaires : à venir
 - Version du règlement : 0.1
-- Dernière mise à jour : à venir
+- Dernière mise à jour : Vendredi 24 juillet 2026
 
 ## Important
 
