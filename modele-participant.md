@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Modèle participant
-parent: Participants
 nav_exclude: true
+search_exclude: true
 ---
 
 # Nom du participant
