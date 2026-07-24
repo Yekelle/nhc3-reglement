@@ -27,8 +27,7 @@ Le dispositif appliqué pendant les enquêtes sera précisé avant le tournoi.
 Les solutions actuellement envisagées sont :
 
 - le passage du chat en mode emotes uniquement ;
-- la mise en place d’une liste de mots bannis ;
-- une modération renforcée du chat.
+- la mise en place d’une liste de mots bannis.
 
 Le chat pourra fonctionner normalement entre les parties, sauf indication contraire de l’organisation.
 
