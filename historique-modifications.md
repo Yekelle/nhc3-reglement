@@ -12,7 +12,7 @@ La version la plus récente du règlement est toujours celle publiée sur ce sit
 
 ## Version 0.1
 
-Date : à compléter
+Date : Vendredi 24 juillet 2026
 
 Création de la première structure du règlement :
 
