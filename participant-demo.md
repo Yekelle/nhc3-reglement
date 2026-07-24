@@ -29,13 +29,6 @@ nav_order: 1
       >
         Chaîne Twitch
       </a>
-
-      <a
-        class="nhc-action nhc-action-secondary"
-        href="#presentation"
-      >
-        Découvrir le profil
-      </a>
     </div>
   </div>
 
