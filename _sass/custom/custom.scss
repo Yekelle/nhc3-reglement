@@ -289,3 +289,64 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* Fiches des participants */
+.nhc-participant-header {
+  display: flex;
+  align-items: center;
+  gap: 1.4rem;
+  margin-bottom: 2rem;
+  padding: 1.3rem;
+  border: 1px solid rgba(255, 106, 0, 0.3);
+  border-radius: 6px;
+  background:
+    radial-gradient(
+      circle at 90% 15%,
+      rgba(217, 46, 40, 0.14),
+      transparent 35%
+    ),
+    rgba(255, 106, 0, 0.045);
+}
+
+.nhc-participant-avatar {
+  width: 130px;
+  height: 130px;
+  flex-shrink: 0;
+  border: 2px solid #ff6a00;
+  border-radius: 8px;
+  object-fit: cover;
+  background-color: #10151a;
+  box-shadow: 0 0 16px rgba(255, 106, 0, 0.18);
+}
+
+.nhc-participant-name {
+  margin: 0 0 0.4rem;
+  color: #f4f1ea;
+  font-size: 2rem;
+  line-height: 1.1;
+  text-shadow: 0 0 12px rgba(255, 106, 0, 0.25);
+}
+
+.nhc-participant-summary {
+  margin: 0;
+  color: #c9ccce;
+}
+
+.nhc-participant-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 1rem;
+}
+
+@media (max-width: 600px) {
+  .nhc-participant-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .nhc-participant-avatar {
+    width: 110px;
+    height: 110px;
+  }
+}
