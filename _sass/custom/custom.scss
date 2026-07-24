@@ -350,3 +350,56 @@
     height: 110px;
   }
 }
+
+/* Ajustements visuels Apocalypse Or */
+
+/* Titre du site */
+.site-title {
+  color: #f4f0e6;
+  text-shadow:
+    0 0 8px rgba(214, 168, 75, 0.42),
+    0 0 20px rgba(243, 210, 122, 0.18);
+}
+
+/* Page sélectionnée dans le menu */
+.nav-list .nav-list-item .nav-list-link.active {
+  color: #f3d27a;
+  background: linear-gradient(
+    90deg,
+    rgba(214, 168, 75, 0.2),
+    rgba(214, 168, 75, 0)
+  );
+  border-left-color: #d6a84b;
+}
+
+/* Liens du menu au survol */
+.nav-list .nav-list-item .nav-list-link:hover {
+  color: #f3d27a;
+  background-color: rgba(214, 168, 75, 0.08);
+}
+
+/* Titres des pages */
+.main-content h1 {
+  color: #f4f0e6;
+  text-shadow: 0 0 14px rgba(214, 168, 75, 0.22);
+}
+
+/* Titres de sections */
+.main-content h2 {
+  border-left-color: #c8322b;
+}
+
+/* Liens généraux */
+.main-content a {
+  color: #d6a84b;
+}
+
+.main-content a:hover {
+  color: #f3d27a;
+}
+
+/* Sélection de texte */
+::selection {
+  color: #ffffff;
+  background-color: #8a6428;
+}
