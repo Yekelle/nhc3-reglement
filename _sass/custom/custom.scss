@@ -1,0 +1,44 @@
+/* Titre du site dans le menu latéral */
+.site-title {
+  color: #f4f1ea;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-shadow:
+    0 0 8px rgba(255, 106, 0, 0.35),
+    0 0 18px rgba(217, 46, 40, 0.18);
+}
+
+/* Page actuellement sélectionnée dans le menu */
+.nav-list .nav-list-item .nav-list-link.active {
+  color: #ff9a3c;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 106, 0, 0.18),
+    rgba(255, 106, 0, 0)
+  );
+  border-left: 3px solid #ff6a00;
+}
+
+/* Liens du menu au survol */
+.nav-list .nav-list-item .nav-list-link:hover {
+  color: #ff9a3c;
+  background-color: rgba(255, 106, 0, 0.08);
+}
+
+/* Grand titre de chaque page */
+.main-content h1 {
+  color: #f4f1ea;
+  text-shadow: 0 0 14px rgba(255, 106, 0, 0.18);
+}
+
+/* Titres de sections */
+.main-content h2 {
+  border-left: 3px solid #d92e28;
+  padding-left: 0.65rem;
+}
+
+/* Sélection de texte */
+::selection {
+  color: #ffffff;
+  background-color: #d92e28;
+}
