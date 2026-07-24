@@ -9,12 +9,12 @@ nav_order: 1
 
   <img
     class="nhc-participant-avatar"
-    src="{{ '/logo-nuclear-live.png' | relative_url }}"
+    src="{{ '/assets/participants/ghosthunter-demo.png' | relative_url }}"
     alt="Avatar du participant de démonstration"
   >
 
   <div>
-    <h1 class="nhc-participant-name">Guybot</h1>
+    <h1 class="nhc-participant-name">SPM</h1>
 
     <p class="nhc-participant-summary">
       Profil fictif créé pour présenter la future mise en page des participants.
@@ -48,14 +48,14 @@ nav_order: 1
 
 ## Présentation
 
-Guybot est un enquêteur spécialisé dans les décisions parfaitement raisonnables prises pendant une chasse à 0 % de santé mentale.
+SPM est un enquêteur spécialisé dans les décisions parfaitement raisonnables prises pendant une chasse à 0 % de santé mentale.
 
 Son contenu est principalement consacré à Phasmophobia, aux jeux d’horreur et aux enquêtes menées avec beaucoup trop de confiance.
 
 ## Informations
 
 - **Pseudo :** Guybot
-- **Chaîne Twitch :** Guybotnotremaitre
+- **Chaîne Twitch :** FreeSPM
 - **Participation précédente :** aucune
 - **Expérience sur Phasmophobia :** 750 heures
 - **Spécialité :** confondre le Mimic et l’Orbe
