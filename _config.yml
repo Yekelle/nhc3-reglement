@@ -21,3 +21,10 @@ nav_external_links:
     opens_in_new_tab: true
 
 favicon_ico: "/nhc3-reglement/logo-nuclear-live.png"
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      has_toc: false
