@@ -96,3 +96,109 @@
 .nhc-important .nhc-box-title {
   color: #f3d27a;
 }
+
+/* Correction finale : Apocalypse Or */
+
+.site-title {
+  color: #fff4cf;
+  text-shadow:
+    0 0 8px rgba(229, 193, 88, 0.5),
+    0 0 20px rgba(247, 224, 138, 0.2);
+}
+
+/* Navigation */
+.nav-list .nav-list-item .nav-list-link {
+  color: #e5c158;
+}
+
+.nav-list .nav-list-item .nav-list-link.active {
+  color: #f7e08a;
+  border-left-color: #e5c158;
+  background: linear-gradient(
+    90deg,
+    rgba(229, 193, 88, 0.18),
+    rgba(229, 193, 88, 0)
+  );
+}
+
+.nav-list .nav-list-item .nav-list-link:hover {
+  color: #f7e08a;
+  background-color: rgba(229, 193, 88, 0.08);
+}
+
+/* Bandeau */
+.nhc-hero {
+  border-color: rgba(229, 193, 88, 0.48);
+  background:
+    radial-gradient(
+      circle at 85% 20%,
+      rgba(247, 224, 138, 0.15),
+      transparent 36%
+    ),
+    linear-gradient(
+      135deg,
+      rgba(154, 121, 41, 0.15),
+      rgba(8, 10, 12, 0.97) 58%
+    );
+}
+
+.nhc-hero::before {
+  background: linear-gradient(
+    90deg,
+    #9a7929,
+    #e5c158,
+    #fff4cf,
+    #e5c158,
+    #9a7929
+  );
+}
+
+.nhc-hero-kicker {
+  color: #f7e08a;
+}
+
+.nhc-hero-title {
+  color: #fff4cf;
+  text-shadow:
+    0 0 10px rgba(229, 193, 88, 0.48),
+    0 0 26px rgba(247, 224, 138, 0.2);
+}
+
+/* Boutons */
+.nhc-action {
+  border-color: #e5c158;
+  background: linear-gradient(
+    135deg,
+    rgba(229, 193, 88, 0.18),
+    rgba(154, 121, 41, 0.12)
+  );
+}
+
+.nhc-action:hover {
+  border-color: #fff4cf;
+  box-shadow: 0 0 15px rgba(229, 193, 88, 0.26);
+}
+
+/* Cartes */
+.nhc-info-card {
+  border-color: rgba(229, 193, 88, 0.32);
+  background: linear-gradient(
+    135deg,
+    rgba(229, 193, 88, 0.065),
+    rgba(255, 255, 255, 0.018)
+  );
+}
+
+.nhc-info-label {
+  color: #f7e08a;
+}
+
+/* Encadré important */
+.nhc-important {
+  border-color: #e5c158;
+  background-color: rgba(229, 193, 88, 0.085);
+}
+
+.nhc-important .nhc-box-title {
+  color: #f7e08a;
+}
