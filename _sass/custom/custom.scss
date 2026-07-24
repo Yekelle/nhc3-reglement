@@ -246,3 +246,46 @@
 .nhc-action-secondary:hover {
   border-color: #ff6a00;
 }
+
+/* Cartes d'informations principales */
+.nhc-info-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin: 1.2rem 0 1.8rem;
+}
+
+.nhc-info-card {
+  padding: 0.9rem 1rem;
+  border: 1px solid rgba(255, 106, 0, 0.22);
+  border-radius: 4px;
+  background:
+    linear-gradient(
+      135deg,
+      rgba(255, 106, 0, 0.06),
+      rgba(255, 255, 255, 0.025)
+    );
+}
+
+.nhc-info-label {
+  display: block;
+  margin-bottom: 0.25rem;
+  color: #ff9a3c;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.nhc-info-value {
+  color: #f4f1ea;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+/* Adaptation aux petits écrans */
+@media (max-width: 600px) {
+  .nhc-info-grid {
+    grid-template-columns: 1fr;
+  }
+}
