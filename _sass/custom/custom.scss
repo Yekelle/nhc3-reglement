@@ -418,11 +418,13 @@ linear-gradient(
 
 /* Liens généraux */
 .main-content a {
-color: #d6a84b;
+  color: #d6a84b;
 }
 
 .main-content a:hover {
   color: #f3d27a;
+}
+
 /* Encadré important */
 .nhc-important {
   border-color: #d6a84b;
@@ -433,6 +435,8 @@ color: #d6a84b;
 ::selection {
   color: #ffffff;
   background-color: #8a6428;
+}
+
 .nhc-important .nhc-box-title {
   color: #f3d27a;
 }
