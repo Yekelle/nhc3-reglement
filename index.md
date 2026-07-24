@@ -5,11 +5,19 @@ nav_order: 1
 ---
 
 <div class="nhc-hero">
-  <div class="nhc-hero-kicker">Nuclear Haunted Cup #3</div>
-  <h1 class="nhc-hero-title">Apocalypse</h1>
-  <p class="nhc-hero-subtitle">
-    Règlement officiel du tournoi Phasmophobia organisé par Nuclear_Live.
-  </p>
+  <div class="nhc-hero-content">
+    <div class="nhc-hero-kicker">Nuclear Haunted Cup #3</div>
+    <h1 class="nhc-hero-title">Apocalypse</h1>
+    <p class="nhc-hero-subtitle">
+      Règlement officiel du tournoi Phasmophobia organisé par Nuclear_Live.
+    </p>
+  </div>
+
+  <img
+    class="nhc-hero-logo"
+    src="{{ '/logo-nuclear-live.png' | relative_url }}"
+    alt="Logo Nuclear Live"
+  >
 </div>
 
 ## Informations principales
