@@ -17,8 +17,8 @@ Vous trouverez ici toutes les informations concernant le déroulement du tournoi
 - Version du règlement : 0.1
 - Dernière mise à jour : Vendredi 24 juillet 2026
 
-## Important
-
-Le règlement est encore en cours de préparation.
-
-Toute modification importante sera également annoncée sur le serveur Discord officiel.
+<div class="nhc-box nhc-important">
+  <span class="nhc-box-title">Important</span>
+  Le règlement est encore en cours de préparation.<br><br>
+  Toute modification importante sera également annoncée sur le serveur Discord officiel.
+</div>
