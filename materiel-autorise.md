@@ -13,21 +13,18 @@ Cette page présente le matériel, les paramètres et les outils autorisés pend
 
 Les participants pourront utiliser le matériel autorisé pour chaque phase du tournoi.
 
-Les éventuelles restrictions concernant les équipements T1, T2 et T3 seront précisées avant l’événement.
+Les éventuelles restrictions concernant les équipements T1, T2 et T3 seront précisées avant chaque épreuve.
 
 ## Paramètres du jeu
 
-Les participants pourront utiliser les paramètres disponibles directement dans Phasmophobia, dans les limites fixées par le règlement.
-
-La luminosité maximale autorisée sera de [valeur à confirmer].
+Les participants pourront utiliser les paramètres disponibles directement dans Phasmophobia.
 
 ## Outils externes
 
 Sont notamment autorisés :
 
 - les timers ;
-- les overlays servant uniquement à afficher ou conserver des preuves ;
-- les overlays non interactifs ;
+- les overlays servant uniquement à afficher ou conserver des preuves, non intéractif ;
 - les outils expressément validés par l’équipe d’organisation.
 
 Un overlay est considéré comme non interactif lorsque les spectateurs ne peuvent pas le modifier ou transmettre des informations au participant par son intermédiaire.
