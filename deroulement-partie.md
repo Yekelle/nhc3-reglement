@@ -13,13 +13,13 @@ Cette page présente les règles générales appliquées pendant une partie du t
 
 Le participant doit être prêt dans le lobby et attendre les consignes données par l’équipe d’organisation pour les réglages de la game.
 
-Une fois dans les réglages faits, les participants chargent dans le camion et attendent le top départ officiel avant de toucher au matériel (écrans du camion, matériel des joueurs, clé). Se promener, regarder les objectifs est permis.
+Une fois les réglages faits, les participants chargent dans le camion et attendent le top départ officiel avant de toucher au matériel (écrans du camion, matériel des joueurs, clé, etc.). Se promener, regarder les objectifs sont permis.
 
 ## Chronomètre
 
 Chaque partie dispose d’une durée limitée.
 
-Le chronomètre commence au moment indiqué par l’organisation.
+Le chronomètre commence au top indiqué par l’organisation.
 
 Une annonce sera faite une minute avant la fin afin que le participant puisse terminer son enquête et retourner au camion.
 
@@ -27,7 +27,7 @@ Une annonce sera faite une minute avant la fin afin que le participant puisse te
 
 Après le top de fin :
 
-- le type de fantôme sélectionné ne peut plus être modifié ;
+- le type de fantôme sélectionné ne peut plus être modifié ou validé si non fait avant ;
 - les nouveaux objectifs accomplis ne sont plus comptabilisés ;
 - les morts survenant après la fin du chronomètre ne sont pas prises en compte ;
 - aucune nouvelle action ne peut permettre de gagner ou de perdre des points.
