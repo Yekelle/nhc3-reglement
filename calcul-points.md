@@ -11,20 +11,23 @@ Cette page présentera le système de points appliqué pendant la Nuclear Haunte
 
 ## Identification du fantôme
 
-Les points accordés pour l’identification correcte du fantôme seront précisés ici.
+Identification correcte de l'entité : 5 points.
 
 ## Objectifs secondaires
 
-Les points obtenus grâce aux objectifs secondaires seront précisés ici.
+Objectifs secondaires réalisés : 2 point par objectif, soit un maximum de 6 points.
 
 ## Photos et preuves
 
-Les règles de comptabilisation des photos et des autres preuves seront précisées ici.
+Enregistrement audio unique : 1 point, soit 3 points maximum.
+Photo de l'os : 1 point.
+Photo de l'objet maudit : 1point.
 
-## Bonus et malus
+## Malus
 
-Les différents bonus et malus pouvant modifier le score seront indiqués ici.
+Mort d'un joueur : -2 points par mort.
+Malus non respecté : -5 points.
 
 ## Validation du score
 
-Le score de chaque partie sera calculé par le modérateur, puis vérifié par l’équipe d’organisation avant sa validation définitive.
+Le score de chaque partie sera calculé par le modérateur du streamer, puis vérifié par l’équipe d’organisation avant sa validation définitive. En cas de contestation, un screen preuve pourra être demandé au modérateur. Prenez donc soin de screener tout élément de points (journal, médias, débriefing).
