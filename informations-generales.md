@@ -17,12 +17,11 @@ Les participants devront respecter l’ensemble des règles présentées sur ce 
 
 ## Informations principales
 
-- Date du tournoi : à définir
-- Heure de rendez-vous : à définir
-- Heure du lancement officiel : à définir
+- Date du tournoi : Samedi 7 Novembre 2026
+- Heure de rendez-vous : 20h
+- Heure du lancement officiel : 21h
 - Chaîne officielle : [Nuclear_Live](https://www.twitch.tv/nuclear_live)
-- Format du tournoi : à compléter
-
+- Format du tournoi : Arbre de tournoi
 ## Communication
 
 Les annonces importantes seront publiées sur le serveur Discord officiel.
