@@ -14,7 +14,7 @@ Cette page présente les pratiques, logiciels et comportements interdits pendant
 Sont interdits :
 
 - les shaders ;
-- les filtres externes améliorant la luminosité ;
+- les filtres externes améliorant la luminosité. Seule la luminosité max permise par Phasmophobia est autorisée ;
 - les logiciels modifiant artificiellement l’affichage du jeu ;
 - tout réglage extérieur à Phasmophobia procurant un avantage visuel.
 
@@ -22,7 +22,7 @@ Sont interdits :
 
 L’utilisation volontaire d’un glitch, d’un usebug ou d’un emplacement permettant de contourner les mécaniques normales du jeu est interdite.
 
-Les exemples précis de comportements interdits seront ajoutés au règlement avant le tournoi.
+Des exemples précis de comportements interdits seront ajoutés au règlement avant le tournoi.
 
 En cas d’utilisation accidentelle, le participant devra prévenir immédiatement son modérateur.
 
