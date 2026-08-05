@@ -26,8 +26,8 @@ Le dispositif appliqué pendant les enquêtes sera précisé avant le tournoi.
 
 Les solutions actuellement envisagées sont :
 
-- le passage du chat en mode emotes uniquement ;
-- la mise en place d’une liste de mots bannis.
+- le passage du chat en mode emotes uniquement /!\ Les VIP ne sont pas restreints par ce mode vous devrez les prévenir /!\ ;
+- la mise en place d’une liste de mots bannis via un bot extérieur, Wizebot ne permettant pas de ban d'office des mots interdits, les mettant seulement en surbrillance.
 
 Le chat pourra fonctionner normalement entre les parties, sauf indication contraire de l’organisation.
 
