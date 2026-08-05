@@ -13,22 +13,21 @@ Cette page présente les règles concernant l’utilisation des objets maudits p
 
 Les objets maudits peuvent uniquement être utilisés à l’intérieur du lieu d’enquête.
 
-Toute utilisation depuis le camion ou depuis l’extérieur du bâtiment est interdite.
+Toute utilisation depuis l’extérieur du bâtiment est interdite (utilisation à la porte par exemple).
 
 ## Conditions d’utilisation
 
 Selon les différentes phases du tournoi, des règles particulières pourront être appliquées concernant :
 
-- le moment où l’objet peut être utilisé ;
-- le nombre d’utilisations autorisées ;
+- la présence ou non d'un objet maudit dans la partie ;
+- le moment où l’objet peut être utilisé : tout objet maudit utilisé afin de provoquer une chasse à moins de XX secondes de la fin est strictement interdit et donnera lieu à des sanctions ;
 - le participant pouvant l’activer ;
-- les éventuels objectifs liés à son utilisation ;
-- les conséquences d’une chasse maudite.
+- les éventuels objectifs liés à son utilisation.
 
-Les consignes propres à chaque phase seront précisées avant le lancement de la partie.
+Les consignes seront précisées avant le lancement de la partie.
 
 ## Objet inaccessible ou inutilisable
 
-Si un objet maudit est inaccessible, inutilisable ou affecté par un bug, le participant devra immédiatement prévenir son modérateur.
+Si un objet maudit est inaccessible, inutilisable ou affecté par un bug, le participant devra immédiatement prévenir son modérateur qui préviendra l'organisation via le canal discord dédié.
 
-Aucune solution ne devra être improvisée sans l’accord de l’équipe d’organisation.
+Aucune solution ne devra être improvisée sans l’accord de l’équipe d’organisation. Si le bug n'est pas remonté et que la partie ne se déroule pas correctement, il en sera de la responsabilité du streamer et du modérateur et la partie ne sera pas rejouée.
